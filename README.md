@@ -35,6 +35,8 @@ The goal of the project is to experimentally validate **edge-AI memory-aware ada
 
 Baud rate: **115200**
 
+![Hardware Diagram](images/hardware.png)
+
 ---
 
 ## STM32 Firmware Implementation
